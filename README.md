@@ -32,7 +32,7 @@ React Native · Flutter
 ## Contacto
 
 LinkedIn: [https://linkedin.com/in/nahuelagomez](https://linkedin.com/in/nahuelagomez)  
-Portfolio: [https://nahuelgomez.dev/](://nahuelgomez.dev)  
+Portfolio: [https://nahuelgomez.dev/](https://nahuelgomez.dev)  
 Correo: nahue.code@gmail.com
 
 ---
